@@ -3,7 +3,6 @@
 ## 需求说明
 1. 两个集合比较筛选 - 其中包含4个小练习
 2. 单个集合内各种元素统计 - 其中包含3个小练习
-3. 两个集合比较+筛选+统计 - 其中包含4个小练习
 
 ## 挑战
 * 使用循环和条件控制结构
@@ -19,13 +18,13 @@
 
 ## 要求
 * 通过所有测试用例
-* 不能使用高阶函数
-* 不能使用正则表达式
-* 代码通过小步骤提交并附上意义的评论
+* 使用ES6语法
+* 使用Array API (如：Filter, Map, Include 等)
+* 代码通过小步骤提交并附上意义的评论-每通过一个测试git commit一次
 * 使用快捷键编码
 
 ## 交付物
-以上三个大的主题练习需求，在代码库的`spec`（测试目录）下的section-1, section-2, section-3中的测试代码中有文字说明。对应的代码实现在`main`目录下，例如：`spec/section-1/practice-1-spec.js`中的测试实现需要写在`main/section-1/practice-1.js`中。
+以上三个大的主题练习需求，在代码库的`spec`（测试目录）下的section-1, section-2中的测试代码中有文字说明。对应的代码实现在`main`目录下，例如：`spec/section-1/practice-1-spec.js`中的测试实现需要写在`main/section-1/practice-1.js`中。
 
 ## 环境
 JavaScript ES6。
@@ -57,10 +56,10 @@ src   //源文件
 git remote set-url origin my_url
 ```
 ## 学习资源
-1. [JavaScript基础](http://codefordream.com/courses/js_basic/sections)
-1. [JavaScript初级训练营](http://codefordream.com/courses/js_learning_camps/sections)
-1. [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
-1. [Node 下载安装](https://github.com/creationix/nvm)
-1. [NPM 下载安装](https://github.com/npm/npm)
-1. [Jasmine用法](http://jasmine.github.io/2.4/introduction.html)
-1. [Git 参考手册](https://git-scm.com/docs)
+1. [JavaScript基础](http://www.w3school.com.cn/js/index.asp)
+2. [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+3. [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
+4. [Node 下载安装](https://github.com/creationix/nvm)
+5. [NPM 下载安装](https://github.com/npm/npm)
+6. [Jasmine用法](http://jasmine.github.io/2.4/introduction.html)
+7. [Git 参考手册](https://git-scm.com/docs)
