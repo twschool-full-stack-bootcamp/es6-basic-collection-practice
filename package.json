@@ -1,5 +1,5 @@
 {
-  "name": "gpst-js-basic-collection-practice",
+  "name": "es6-basic-collection-practice",
   "version": "1.0.0",
   "description": "Powered by ThoughtWorks School",
   "main": "app.js",
@@ -14,7 +14,7 @@
   "author": "ThoughtWorks School",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/tws-stack/gpst-js-basic-collection-practice/issues"
+    "url": "https://github.com/twschool-full-stack-bootcamp/es6-basic-collection-practice/issues"
   },
   "homepage": "https://school.thoughtworks.cn",
   "devDependencies": {
